@@ -1,3 +1,5 @@
 # SPL
 SPL-1 BSSE 1027 Repository:
-Previous Repository has been unavailable for some unavoidable circumstances.This is the new repository for SPL.
+Pseudo 3D Racing Game in C++ and SFML
+Software Project Lab-01,Bsc in Software Engineering,
+Institute of Information Technology,University Of Dhaka
